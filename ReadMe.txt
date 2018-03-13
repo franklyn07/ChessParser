@@ -1,0 +1,1 @@
+This Rep will contain a file parser for a chess simulation. It will recieve chess commands, validate them and then perform them. This project was an assignment and thus, it was uploaded at once, after mark was assigned.

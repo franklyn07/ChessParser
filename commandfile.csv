@@ -1,0 +1,15 @@
+<w>,<move>,<d2>,<d3>
+<b>,<move>,<d7>,<d6>
+<w>,<move>,<c1>,<h6>
+<b>,<move>,<d6>,<d5>
+<w>,<move>,<h2>,<h3>
+<b>,<eat>,<g7>,<h6>
+<w>,<move>,<d3>,<d4>
+<b>,<move>,<b7>,<b6>
+<w>,<move>,<d1>,<d3>
+<b>,<move>,<a7>,<a6>
+<w>,<move>,<d3>,<e3>
+<b>,<move>,<a6>,<a5>
+<w>,<eat>,<e3>,<e7>
+<b>,<move>,<a5>,<a4>
+<w>,<move>,<g8>,<f6>
