@@ -6,4 +6,4 @@ The objective of the parser is that of evaluating the correctness of the given c
 and monitor the performance of both the black and white players. At the end of the game, a report showing the statistics
 of the game outcome (derived from the list of commands) is printed.
 
-This was built making use of the 4 basic OOP principles as well as multiple design patters.
+This was built making use of the 4 basic OOP principles as well as multiple design patterns.
